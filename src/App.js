@@ -14,7 +14,7 @@ function App() {
 
   const contractAddress = '0xa41FAd55d853f3D6Baf85D0A8495983f0cf29883';
   const contractABI = abi.abi;
-
+https://Bank-Dapp.janus9.repl.co
   const checkIfWalletIsConnected = async () => {
     try {
       if (window.ethereum) {
